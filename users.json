@@ -1,3 +1,4 @@
+
 {
   "users": [
     {
@@ -35,11 +36,311 @@
       "password": "modder ilimitado",
       "expiration": "never",
       "banned": "no"
-    }
+    },
     {
       "alias": "test",
       "password": "viptest",
       "expiration": "never",
+      "banned": "no"
+    },
+    {
+      "alias": "CarlosVIP88",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "MariaTv2024",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "PedroStream",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "LuisHD99",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "AngelFreeTV",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "RosaPlay77",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "JorgeMax01",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "DianaVIP2025",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "MiguelPro44",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "SofiaStream22",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "RicardoHD",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "FernandaTV99",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "OscarFree11",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "ValeriaPlus",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "DavidVIP33",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "CamilaStream",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "RamonTV56",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "IsabelFree",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "HectorPlay88",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "PaolaVIP21",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "GabrielMax",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "NataliaHD44",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "EmilioFree77",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "LuciaStream99",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "SantiagoTV",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "AlejandraPlus",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "FelipeVIP66",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "MonicaFree33",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "RobertoHD01",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "CarmenPlay55",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "AlbertoMax22",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "TeresaVIP",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "EduardoFree",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "PatriciaTV88",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "JavierStream",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "AndreaPlus99",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "MartinVIP44",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "ClaudiaHD",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "GustavoFree11",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "ElenaPlay66",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "ArmandoTV33",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "VeronicaMax",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "FranciscoVIP",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "GloriaStream55",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "RafaelFree88",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "SilviaPlus22",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "ManuelHD77",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "BeatrizTV01",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "AdrianPlay99",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
+      "banned": "no"
+    },
+    {
+      "alias": "LorenaVIP55",
+      "password": "Mangococo79",
+      "expiration": "2026-05-02",
       "banned": "no"
     }
   ]
