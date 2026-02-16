@@ -36,5 +36,12 @@
       "expiration": "never",
       "banned": "no"
     }
+
+    {
+      "alias": "test",
+      "password": "viptest",
+      "expiration": "never",
+      "banned": "no"
+    }
   ]
 }
