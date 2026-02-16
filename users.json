@@ -41,7 +41,7 @@
       "alias": "test",
       "password": "viptest",
       "expiration": "never",
-      "banned": "si"
+      "banned": "no"
     },
     {
       "alias": "CarlosVIP88",
